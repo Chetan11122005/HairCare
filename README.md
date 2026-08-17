@@ -1,4 +1,4 @@
-# HairCare (haiRcure) 🌿💆‍♂️
+# HairCare 🌿💆‍♂️
 
 > An intelligent, AI-powered iOS companion for holistic hair health, scalp recovery, and personalized wellness routines.
 
