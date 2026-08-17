@@ -1,0 +1,11 @@
+//
+// Config.xcconfig.example
+// Copy this file to Config.xcconfig and fill in your actual keys.
+// Do NOT commit Config.xcconfig to version control.
+//
+
+SUPABASE_URL = https:/$()/mkljovatslqpjtzvgnde.supabase.co
+SUPABASE_ANON_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1rbGpvdmF0c2xxcGp0enZnbmRlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYyOTc5MDYsImV4cCI6MjA5MTg3MzkwNn0.MRU-XWQvLSTNwUvmCvxEg4Ip-KnK2dyxCaeM9vFt9ME
+OPENROUTER_API_KEY = YOUR_OPENROUTER_API_KEY
+GOOGLE_CLIENT_ID = 124233580774-0kfm0sgg1osv55d8mud2n714jik8n44o.apps.googleusercontent.com
+GOOGLE_REVERSED_CLIENT_ID = com.googleusercontent.apps.124233580774-0kfm0sgg1osv55d8mud2n714jik8n44o
